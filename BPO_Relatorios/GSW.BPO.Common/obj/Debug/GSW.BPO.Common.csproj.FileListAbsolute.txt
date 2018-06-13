@@ -1,0 +1,11 @@
+C:\Users\Destroyer\source\repos\BPO_Relatórios\GSW.BPO.Common\obj\Debug\GSW.BPO.Common.csproj.CoreCompileInputs.cache
+C:\Users\Destroyer\source\repos\BPO_Relatórios\GSW.BPO.Common\bin\Debug\GSW.BPO.Common.dll
+C:\Users\Destroyer\source\repos\BPO_Relatórios\GSW.BPO.Common\bin\Debug\GSW.BPO.Common.pdb
+C:\Users\Destroyer\source\repos\BPO_Relatórios\GSW.BPO.Common\obj\Debug\GSW.BPO.Common.dll
+C:\Users\Destroyer\source\repos\BPO_Relatórios\GSW.BPO.Common\obj\Debug\GSW.BPO.Common.pdb
+D:\Gitlab\BPO_ReinfRelatorios\BPO_Relatorios\GSW.BPO.Common\bin\Debug\GSW.BPO.Common.dll
+D:\Gitlab\BPO_ReinfRelatorios\BPO_Relatorios\GSW.BPO.Common\bin\Debug\GSW.BPO.Common.pdb
+D:\Gitlab\BPO_ReinfRelatorios\BPO_Relatorios\GSW.BPO.Common\obj\Debug\GSW.BPO.Common.csprojAssemblyReference.cache
+D:\Gitlab\BPO_ReinfRelatorios\BPO_Relatorios\GSW.BPO.Common\obj\Debug\GSW.BPO.Common.csproj.CoreCompileInputs.cache
+D:\Gitlab\BPO_ReinfRelatorios\BPO_Relatorios\GSW.BPO.Common\obj\Debug\GSW.BPO.Common.dll
+D:\Gitlab\BPO_ReinfRelatorios\BPO_Relatorios\GSW.BPO.Common\obj\Debug\GSW.BPO.Common.pdb
